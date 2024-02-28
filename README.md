@@ -14,7 +14,11 @@ My name is Mohammad Mahdi Niknam and I am a computer science student at Islamic 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=%2361DAFB" alt="CSS"/>
   <img src="https://img.shields.io/badge/github-%231572B6.svg?style=for-the-badge&logo=github&logoColor=%2361DAFB" alt="GIT"/>
 </div>
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,django,github&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,python,django,github" />
+  </a>
+</p>
 <hr/>
 
 <div display="flex">
