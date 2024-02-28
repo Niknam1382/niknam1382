@@ -7,7 +7,7 @@ My name is Mohammad Mahdi Niknam and I am a computer science student at Islamic 
 
 <p align="center">
   **I love working with**
- <br/>
+ <br/><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,python,django,github,vscode" />
   </a>
@@ -19,5 +19,3 @@ My name is Mohammad Mahdi Niknam and I am a computer science student at Islamic 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <div/>
-<hr/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niknam1382&show_icons=true&theme=onedark)
