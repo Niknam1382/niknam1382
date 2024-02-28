@@ -8,9 +8,11 @@ My name is Mohammad Mahdi Niknam and I am a computer science student at Islamic 
 **I love working with**
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="python"/>
   <img src="https://img.shields.io/badge/django-%231572B6.svg?style=for-the-badge&logo=django&logoColor=white" alt="DJANGO"/>
+  <img src="https://img.shields.io/badge/html-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/github-%231572B6.svg?style=for-the-badge&logo=github&logoColor=white" alt="GIT"/>
 </div>
 
 
