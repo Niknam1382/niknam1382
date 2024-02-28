@@ -5,16 +5,8 @@ My name is Mohammad Mahdi Niknam and I am a computer science student at Islamic 
 - 🔭 I’m currently working on django projects
 - 💬 Ask me about django & python & Computer science
 
-**I love working with**
-
-<div display="flex">
-  <img src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="python"/>
-  <img src="https://img.shields.io/badge/django-%231572B6.svg?style=for-the-badge&logo=django&logoColor=%2361DAFB" alt="DJANGO"/>
-  <img src="https://img.shields.io/badge/html-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=%2361DAFB" alt="HTML"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=%2361DAFB" alt="CSS"/>
-  <img src="https://img.shields.io/badge/github-%231572B6.svg?style=for-the-badge&logo=github&logoColor=%2361DAFB" alt="GIT"/>
-</div>
 <p align="center">
+  **I love working with**
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,python,django,github" />
   </a>
