@@ -14,8 +14,4 @@ My name is Mohammad Mahdi Niknam and I am a computer science student at Islamic 
 </p>
 <hr/>
 
-<div display="flex">
-  <a href="https://www.linkedin.com/in/mohammad-mahdi-niknam">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-<div/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niknam1382&show_icons=true&theme=synthwave)
