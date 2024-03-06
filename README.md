@@ -6,7 +6,7 @@ My name is Mohammad Mahdi Niknam and I am a computer science student at Islamic 
 - 💬 Ask me about django & python & Computer science
 
 <p align="center">
-  **I love working with**
+  **I love & working with**
  <br/><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,python,django,github,vscode" />
