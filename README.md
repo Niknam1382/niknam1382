@@ -9,7 +9,7 @@ My name is Mohammad Mahdi Niknam and I am a computer science student at Islamic 
   **I love & working with**
  <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,django,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,django,git,github,vscode" />
   </a>
 </p>
 <hr/>
