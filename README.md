@@ -13,5 +13,3 @@ My name is Mohammad Mahdi Niknam and I am a computer science student at Islamic 
   </a>
 </p>
 <hr/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niknam1382&show_icons=true&theme=synthwave)
