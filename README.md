@@ -1,13 +1,16 @@
-I'm Mohammad Mahdi Niknam, a Computer Science graduate from Islamic Azad University, Tehran Branch. I'm passionate about Python and currently focused on building and learning with the Django framework. I'm always eager to explore new technologies and grow as a developer.
+Mohammad Mahdi Niknam
+Python & Django Developer | Computer Science Graduate
+I am a Computer Science graduate from Islamic Azad University, Tehran Branch, specializing in backend development with Python and Django. I focus on building clean, maintainable, and scalable web applications. I am constantly learning new technologies and best practices to improve my craft.
 
-🔭 I'm currently working on Django projects
+🧭 Current Focus
+Developing Django-based web applications
+Learning Docker for deployment and containerization
+Exploring AI-assisted development and vibe coding workflows
 
-🌱 I'm continuously learning and improving my backend development skills
-
-💬 Ask me about Django, Python, and Computer Science
-
-🎯 Open to collaboration on interesting Python/Django projects
-
-📫 Feel free to reach out!
-
-<p align="center"> <strong>I love & work with</strong> <br/><br/> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,python,django,sklearn,git,github,docker,vscode" /> </a> </p> <hr/>
+🛠️ Technical Skills
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,django,html,css,sklearn,git,github,docker,vscode" /> </p>
+🤖 AI & Vibe Coding
+Using AI tools to accelerate development
+Practicing vibe coding for rapid prototyping and idea validation
+Applying AI for debugging, code review, and learning new concepts
+Combining AI assistance with solid engineering fundamentals to write clean, maintainable code
