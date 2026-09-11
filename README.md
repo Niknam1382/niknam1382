@@ -50,11 +50,7 @@
 
 ### 🤖 AI & Vibe Coding
 
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
-
-<br/><br/>
+<br/>
 
 ⚡ Using AI tools to **accelerate development**  
 🧪 Practicing **vibe coding** for rapid prototyping  
