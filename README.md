@@ -1,15 +1,13 @@
-### Hi there 👋😉
+I'm Mohammad Mahdi Niknam, a Computer Science graduate from Islamic Azad University, Tehran Branch. I'm passionate about Python and currently focused on building and learning with the Django framework. I'm always eager to explore new technologies and grow as a developer.
 
-My name is Mohammad Mahdi Niknam and I am a computer science student at Islamic Azad University, Tehran branch. I am interested in Python language and I am working and learning Django framework. I always try to learn new things!
+🔭 I'm currently working on Django projects
 
-- 🔭 I’m currently working on django projects
-- 💬 Ask me about django & python & Computer science
+🌱 I'm continuously learning and improving my backend development skills
 
-<p align="center">
-  **I love & working with**
- <br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,django,sklearn,git,github,docker,vscode" />
-  </a>
-</p>
-<hr/>
+💬 Ask me about Django, Python, and Computer Science
+
+🎯 Open to collaboration on interesting Python/Django projects
+
+📫 Feel free to reach out!
+
+<p align="center"> <strong>I love & work with</strong> <br/><br/> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,python,django,sklearn,git,github,docker,vscode" /> </a> </p> <hr/>
